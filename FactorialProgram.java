@@ -1,15 +1,9 @@
-/*
-	 *
-	 *	Name: Sean Myko C. Baang
-	 *	Section: CC11 - CCB
-	 *	Date: 07/17/2018
-	 *
-*/
+
 
 // Description...
 
 /*	Factorial without using multiplication */
-/* I almost died */
+
 
 
 import java.util.Scanner;
