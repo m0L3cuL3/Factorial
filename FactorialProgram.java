@@ -66,7 +66,7 @@ class FactorialProgram
 				}
 				System.out.println("[FACTORIAL]: " + n);
 				System.out.println("");
-				System.out.println("[Coded by Sean Baang]");
+				System.out.println("[Coded by _______]");
 				System.out.println("[07/17/2018]");
 			}
 				
